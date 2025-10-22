@@ -35,7 +35,7 @@ O **Arduino** lê continuamente a tensão nos terminais do capacitor e do resist
 *Vista Esquemática*
 ![Circuito RC](assets/arduino2.png)
 
-Confira os resultados no notebook [aqui](Sensores-e-Atuadores-Basicos-Circuito-RC/ponderada.ipynb)
+Confira os resultados no notebook [aqui](ponderada.ipynb)
 
 
 
